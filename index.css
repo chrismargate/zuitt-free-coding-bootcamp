@@ -19,3 +19,11 @@ body {
     background-attachment: fixed;
     background-size: cover;
 }
+
+#landing {
+    height: 80;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
